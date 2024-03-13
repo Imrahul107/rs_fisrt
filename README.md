@@ -1,1 +1,1 @@
-# rs_fisrt
+# rs_first
